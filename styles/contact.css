@@ -1,0 +1,7 @@
+main{
+    display: flex;
+    flex-direction: column;
+}
+main img:hover{
+    transform: scale(1.2);
+}
